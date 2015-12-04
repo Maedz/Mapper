@@ -12,14 +12,31 @@
  */
 
 #include <cstdlib>
+#include <iostream>
 
 using namespace std;
 
 /*
  * 
  */
-int main(int argc, char** argv) {
 
+char* mapper()
+{
+    return NULL;
+}
+
+char* import_file(char* filename)
+{
+    return NULL;
+}
+
+int main(int argc, char** argv) {
+    cout << "Hello";
+    
+    //import file IDIOT maybe seperate function
+    
+    
+    
     return 0;
 }
 
